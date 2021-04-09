@@ -105,6 +105,7 @@ dist
 
 # This part is for develop
 dev/
+*.dev.*
 
 # Secrets
 secret*.*
